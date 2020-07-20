@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<head>
-  <title>Hello, world</title>
-</head>
-<body>
+<title>Hello, world</title>
 #Hello, it's me...
-</body>
+
