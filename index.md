@@ -10,7 +10,7 @@
     
     </section>
     <footer>
-      Personal webpage by Juan F. Carias <span id="version"> v 0.3 </span>
+      Personal webpage by Juan F. Carias <span id="version"> v 0.4 </span>
     </footer>
   </body>
 </html>
